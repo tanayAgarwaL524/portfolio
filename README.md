@@ -32,14 +32,9 @@ A personal portfolio website built with pure HTML and CSS. Clean, responsive, an
 
 ## Projects
 
-### Flexbox Froggy Clone
-An interactive game interface to learn CSS Flexbox.
-
-### Responsive Landing Page
-A fully responsive landing page with CSS Grid and media queries.
-
-### CSS Animation Showcase
-Creative CSS animations, loaders, and hover effects.
+### Flexbox Quest
+An interactive pixel-art style CSS game designed to master CSS Flexbox concepts. Features a retro arcade theme, level-based challenges, dynamic score tracking, and clean layout logic.
+- Repository: [github.com/tanayAgarwaL524/flexbox-quest](https://github.com/tanayAgarwaL524/flexbox-quest)
 
 ## Author
 
